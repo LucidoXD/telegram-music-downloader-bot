@@ -1,6 +1,7 @@
 import os
 import youtube_dl
 import telepotpro
+import yt_dlp
 from random import randint
 from multiprocessing import Process
 from youtubesearchpython import VideosSearch
